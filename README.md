@@ -1,2 +1,3 @@
 # special-octo-guacamole
-This is my firrst repository. 
+This is my firrst Git repository. 
+Author - Aarav Singh
